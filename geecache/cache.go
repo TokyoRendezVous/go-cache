@@ -1,7 +1,7 @@
-package DistributedCache
+package geecache
 
 import (
-	"go-cache/DistributedCache/lru"
+	"geecache/lru"
 	"sync"
 )
 

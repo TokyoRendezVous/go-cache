@@ -1,4 +1,4 @@
-package DistributedCache
+package geecache
 
 // ByteView 保存不可变的字节视图
 type ByteView struct {
